@@ -18,5 +18,8 @@
   "dependencies": {
     "@microsoft/agents-hosting": "^1.8.1",
     "express": "^5.2.1"
+  },
+  "overrides": {
+    "body-parser": "2.4.0"
   }
 }
